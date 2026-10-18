@@ -1,0 +1,14 @@
+# lab tmux panes (session:window -> pane title set by claude --name)
+firstmate:lab  title=devbox
+firstmate:fm-lab5b6fa6491976-mate  title=✳ Firstmate operational input
+firstmate:fm-lab5b6fa6491976-worker  title=✳ notes · lab5b6fa6491976-worker
+firstmate:main  title=✳ Lab readiness probe
+firstmate:fm-notes-rcship5b6f  title=✳ notes · rcship5b6f
+firstmate:fm-notes-rcscout5b6f  title=✳ notes · rcscout5b6f [scout]
+
+# claude argv --name / --remote-control per worker process
+pid=3653136 cwd=/tmp/fmlab.EoOChk/mate name=<none> remote-control-flags=0
+pid=3659249 cwd=/tmp/fmlab.EoOChk/treehouse/.treehouse/notes-0489b8/1/notes name=notes · lab5b6fa6491976-worker remote-control-flags=0
+pid=3665817 cwd=/tmp/fmlab.EoOChk/home name=<none> remote-control-flags=0
+pid=3704664 cwd=/tmp/fmlab.EoOChk/treehouse/.treehouse/notes-0489b8/2/notes name=notes · rcship5b6f remote-control-flags=0
+pid=3710792 cwd=/tmp/fmlab.EoOChk/treehouse/.treehouse/notes-0489b8/3/notes name=notes · rcscout5b6f [scout] remote-control-flags=0

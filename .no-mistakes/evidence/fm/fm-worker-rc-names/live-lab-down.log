@@ -1,0 +1,7 @@
+stopped: lab tmux server and lab processes
+removed: task temp /tmp/fm-lab3f095468e373-worker+36d859396ac72c69ecb0fcd7f16d15b440aff7f84f63d9f73775b2fd960e4e8a
+removed: task temp /tmp/fm-lab3f095468e373-worker
+removed: task temp /tmp/fm-devbox-gh-runners+36d859396ac72c69ecb0fcd7f16d15b440aff7f84f63d9f73775b2fd960e4e8a
+removed: task temp /tmp/fm-homelab-helm-shell+36d859396ac72c69ecb0fcd7f16d15b440aff7f84f63d9f73775b2fd960e4e8a
+removed: 7 Claude project entries under /tmp/fmlab.i7Zqai
+removed: /tmp/fmlab.i7Zqai

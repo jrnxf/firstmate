@@ -1,0 +1,6 @@
+kids countries ship              -> kids · countries
+homelab homelab-helm-shell ship  -> homelab · helm-shell
+devbox devbox-gh-runners scout   -> devbox · gh-runners [scout]
+notes notesy-x ship              -> notes · notesy-x
+notes notes ship                 -> notes · notes
+notes notes-notes-x scout        -> notes · notes-x [scout]

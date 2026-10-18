@@ -1,0 +1,3 @@
+lab3f095468e373-worker pid=4017014: --name=notes · lab3f095468e373-worker remote-control-flag=0
+homelab-helm-shell pid=4049229: --name=homelab · helm-shell remote-control-flag=0
+devbox-gh-runners pid=4057577: --name=devbox · gh-runners [scout] remote-control-flag=0

@@ -1,0 +1,6 @@
+== /Users/jrnxf/.claude/projects/-tmp-fmlab-i7Zqai-treehouse--treehouse-devbox-2fd550-1-devbox
+"type":"custom-title","customTitle":"devbox · gh-runners [scout]"
+== /Users/jrnxf/.claude/projects/-tmp-fmlab-i7Zqai-treehouse--treehouse-homelab-2fd550-1-homelab
+"type":"custom-title","customTitle":"homelab · helm-shell"
+== /Users/jrnxf/.claude/projects/-tmp-fmlab-i7Zqai-treehouse--treehouse-notes-2fd550-1-notes
+"type":"custom-title","customTitle":"notes · lab3f095468e373-worker"

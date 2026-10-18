@@ -1,0 +1,3 @@
+spawned homelab-helm-shell harness=claude kind=ship mode=local-only yolo=on window=firstmate:fm-homelab-helm-shell worktree=/tmp/fmlab.i7Zqai/treehouse/.treehouse/homelab-2fd550/1/homelab
+WARNING: queued wakes pending - drain them with bin/fm-wake-drain.sh before anything else.
+spawned devbox-gh-runners harness=claude kind=scout window=firstmate:fm-devbox-gh-runners worktree=/tmp/fmlab.i7Zqai/treehouse/.treehouse/devbox-2fd550/1/devbox
