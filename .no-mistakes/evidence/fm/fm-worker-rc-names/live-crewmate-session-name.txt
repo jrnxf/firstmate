@@ -1,0 +1,20 @@
+# live crewmate spawn: bin/fm-spawn.sh rcname-ship <lab>/projects/demo --mode local-only --yolo off --backend tmux
+spawned rcname-ship harness=claude kind=ship mode=local-only yolo=off window=primary:fm-rcname-ship worktree=/home/user/.treehouse/demo-567819/2/demo
+# claude argv around --name:
+--name
+demo · rcname-ship
+# --remote-control occurrences in argv: 0
+# worker pane capture:
+ ▐▛███▛█   Claude Code v2.1.289
+▝▜██████▀  Opus 5.5 with medium effort · Claude Max
+ ▝▝   ▝▝   ~/.treehouse/demo-567819/2/demo · /rc
+❯ : Firstmate operational input waiting: read '<lab>/state/operational-inbox/1793352680-f2625ca05d21f12b.msg' and handle its contents as Firstmate operational input.
+  Read 1 file
+● ready
+✻ Cooked for 7s · done 9:31 AM
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── demo · rcname-ship ─
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  demo Opus 5.5 medium
+  ctx ────────── 4%  5h ━━━━━━━┃━━ 97%  7d ━━━━━━━━┃───── 59%
+  ⏵⏵ bypass permissions on (shift+tab to cycle) · ← for agents

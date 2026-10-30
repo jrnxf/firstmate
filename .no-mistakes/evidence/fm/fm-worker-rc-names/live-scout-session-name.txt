@@ -1,0 +1,24 @@
+# live scout spawn: bin/fm-spawn.sh demo-rcname-scout <lab>/projects/demo --scout --backend tmux
+fm-gate-refuse: gate agent lifecycle permitted only against lab home <lab>
+spawned demo-rcname-scout harness=claude kind=scout window=primary:fm-demo-rcname-scout worktree=/home/user/.treehouse/demo-567819/1/demo
+SPAWN_RC=0
+
+# claude argv (/proc/<pid>/cmdline), one arg per line, around --name:
+--name
+demo · rcname-scout [scout]
+# --remote-control occurrences in argv: 0
+
+# worker pane capture:
+ ▐▛███▛█   Claude Code v2.1.289
+▝▜██████▀  Opus 5.5 with medium effort · Claude Max
+ ▝▝   ▝▝   ~/.treehouse/demo-567819/1/demo · /rc
+❯ : Firstmate operational input waiting: read '<lab>/state/operational-inbox/1793352641-6d1852c6d69b5f88.msg' and handle its contents as Firstmate operational input.
+  Read 1 file
+● ready
+✻ Churned for 4s · done 9:30 AM
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── demo · rcname-scout [scout] ─
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  demo Opus 5.5 medium
+  ctx ────────── 4%  5h ━━━━━━━┃━━ 97%  7d ━━━━━━━━┃───── 59%
+  ⏵⏵ bypass permissions on (shift+tab to cycle) · ← for agents
